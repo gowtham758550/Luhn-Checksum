@@ -15,6 +15,8 @@ South African ID Numbers, Greek Social Security Numbers,
 and survey codes appearing on McDonald's, Taco Bell, and 
 Tractor Supply Co. receipts. 
 
-And the code identify the card issuer 
+And the code identify the card issuer.
+
+Thank you
     
     
