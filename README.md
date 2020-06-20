@@ -15,8 +15,8 @@ and survey codes appearing on McDonald's, Taco Bell, and
 Tractor Supply Co. receipts. 
 * And the code identify the card issuer.
 
-## ***screenshots***
-![](https://github.com/gowtham758550/Luhn-Checksum/blob/master/Screenshot/Screenshot_20200620-222732~2.png)
+## ***screenshot***
+![](https://github.com/gowtham758550/Luhn-Checksum/blob/master/Screenshot/Screenshot_20200620-223249.png)
 ## ***Find me***
 * [Linkedin](https://www.linkedin.com/in/gowtham-s-516433182) 
 * [HackerRank](https://www.hackerrank.com/gowtham758550)
