@@ -1,5 +1,10 @@
 # credit-card-validator
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+</p>
+
+
 ## ***Luhn Algorithm***
 
 * It is a check sum algorithm to validate a credit card 
